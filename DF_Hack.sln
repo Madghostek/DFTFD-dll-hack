@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DF_Hack", "DF_Hack\DF_Hack.vcxproj", "{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug (DLL)|x64 = Debug (DLL)|x64
+		Debug (DLL)|x86 = Debug (DLL)|x86
+		Injector Debug|x64 = Injector Debug|x64
+		Injector Debug|x86 = Injector Debug|x86
+		Injector|x64 = Injector|x64
+		Injector|x86 = Injector|x86
+		Release (DLL)|x64 = Release (DLL)|x64
+		Release (DLL)|x86 = Release (DLL)|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Debug (DLL)|x64.ActiveCfg = Debug|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Debug (DLL)|x64.Build.0 = Debug|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Debug (DLL)|x86.ActiveCfg = Debug|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Debug (DLL)|x86.Build.0 = Debug|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector Debug|x64.ActiveCfg = Injector Debug|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector Debug|x64.Build.0 = Injector Debug|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector Debug|x86.ActiveCfg = Injector Debug|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector Debug|x86.Build.0 = Injector Debug|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector|x64.ActiveCfg = Injector|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector|x64.Build.0 = Injector|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector|x86.ActiveCfg = Injector|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Injector|x86.Build.0 = Injector|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Release (DLL)|x64.ActiveCfg = Release|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Release (DLL)|x64.Build.0 = Release|x64
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Release (DLL)|x86.ActiveCfg = Release|Win32
+		{72DE725F-1BBF-41D8-9A45-C6167D82CC5D}.Release (DLL)|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44D6E9B-0F79-4C02-BCBA-A1DBE8D04205}
+	EndGlobalSection
+EndGlobal
